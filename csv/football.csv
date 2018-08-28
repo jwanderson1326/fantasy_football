@@ -1,0 +1,241 @@
+Index,PTS,Name,Team,Pos
+1,352.3,Le'Veon Bell,Pit,RB
+2,329.4,Todd Gurley II,LAR,RB
+3,325.4,David Johnson,Ari,RB
+4,322.4,Antonio Brown,Pit,WR
+5,317.9,Tom Brady,NE ,QB
+6,316.2,Aaron Rodgers,GB ,QB
+7,305.6,Cam Newton,Car,QB
+8,302.2,Ezekiel Elliott,Dal,RB
+9,294.2,Russell Wilson,Sea,QB
+10,291.9,Julio Jones,Atl,WR
+11,290.8,Alvin Kamara,NO ,RB
+12,288.2,Alex Smith,Wsh,QB
+13,287.4,Andrew Luck,Ind,QB
+14,284.2,Carson Wentz,Phi,QB
+15,281.6,Saquon Barkley,NYG,RB
+16,281.2,DeAndre Hopkins,Hou,WR
+17,279.5,Keenan Allen,LAC,WR
+18,278.7,Matthew Stafford,Det,QB
+19,278.5,Michael Thomas,NO ,WR
+20,278.1,Deshaun Watson,Hou,QB
+21,278,Kirk Cousins,Min,QB
+22,277.9,Odell Beckham Jr.,NYG,WR
+23,275.9,Ben Roethlisberger,Pit,QB
+24,274,Philip Rivers,LAC,QB
+25,273,Matt Ryan,Atl,QB
+26,272.3,Drew Brees,NO ,QB
+27,272.1,Patrick Mahomes,KC ,QB
+28,269.8,Marcus Mariota,Ten,QB
+29,267.1,A.J. Green,Cin,WR
+30,265.2,Dalvin Cook,Min,RB
+31,264.2,Mitchell Trubisky,Chi,QB
+32,263.7,Jimmy Garoppolo,SF ,QB
+33,263.5,Melvin Gordon,LAC,RB
+34,260.1,Jared Goff,LAR,QB
+35,258.3,Leonard Fournette,Jax,RB
+36,258.2,Kareem Hunt,KC ,RB
+37,255.7,Christian McCaffrey,Car,RB
+38,254.7,Andy Dalton,Cin,QB
+39,254.3,Ryan Tannehill,Mia,QB
+40,254,LeSean McCoy,Buf,RB
+41,253.2,Dak Prescott,Dal,QB
+42,253.2,Blake Bortles,Jax,QB
+43,253.1,Davante Adams,GB ,WR
+44,251,Derek Carr,Oak,QB
+45,248.2,Case Keenum,Den,QB
+46,242.2,Tyrod Taylor,Cle,QB
+47,242,Eli Manning,NYG,QB
+48,242,T.Y. Hilton,Ind,WR
+49,241.3,Larry Fitzgerald,Ari,WR
+50,237.7,Adam Thielen,Min,WR
+51,236.6,Rob Gronkowski,NE ,TE
+52,234.2,Devonta Freeman,Atl,RB
+53,234,Jameis Winston,TB ,QB
+54,233.3,Mike Evans,TB ,WR
+55,231.1,Tyreek Hill,KC ,WR
+56,229.7,Jerick McKinnon,SF ,RB
+57,228.2,Stefon Diggs,Min,WR
+58,227.1,Demaryius Thomas,Den,WR
+59,225.1,Doug Baldwin,Sea,WR
+60,222.4,Amari Cooper,Oak,WR
+61,220,Allen Robinson,Chi,WR
+62,217.5,Travis Kelce,KC ,TE
+63,216.9,Golden Tate,Det,WR
+64,213.3,Zach Ertz,Phi,TE
+65,209.7,Jarvis Landry,Cle,WR
+66,207.2,Joe Mixon,Cin,RB
+67,205.3,Marvin Jones Jr.,Det,WR
+68,203.2,Royce Freeman,Den,RB
+69,201.5,Joe Flacco,Bal,QB
+70,201.4,Jordan Howard,Chi,RB
+71,201.3,Kenyan Drake,Mia,RB
+72,201.2,Josh Gordon*,Cle,WR
+73,200,JuJu Smith-Schuster,Pit,WR
+74,197.2,Chris Hogan,NE ,WR
+75,196.7,Corey Davis,Ten,WR
+76,196.6,Brandin Cooks,LAR,WR
+77,195.3,Michael Crabtree,Bal,WR
+78,193.9,Alshon Jeffery*,Phi,WR
+79,193.4,Sam Darnold,NYJ,QB
+80,191.3,Marquise Goodwin,SF ,WR
+81,190.7,Emmanuel Sanders,Den,WR
+82,190.7,Robert Woods,LAR,WR
+83,190.5,Pierre Garcon,SF ,WR
+84,189.8,Randall Cobb,GB ,WR
+85,188.3,Sammy Watkins,KC ,WR
+86,188.2,Sterling Shepard,NYG,WR
+87,187.5,Robby Anderson,NYJ,WR
+88,186.6,Devin Funchess,Car,WR
+89,185.9,Jamison Crowder,Wsh,WR
+90,185.7,Alex Collins,Bal,RB
+91,185.5,Greg Olsen,Car,TE
+92,185.4,Derrick Henry,Ten,RB
+93,185.1,Cooper Kupp,LAR,WR
+94,184.9,Jordy Nelson,Oak,WR
+95,183.9,Evan Engram,NYG,TE
+96,183.7,Delanie Walker,Ten,TE
+97,181.2,Jordan Reed,Wsh,TE
+98,178.9,Kenny Stills,Mia,WR
+99,178.6,Kelvin Benjamin,Buf,WR
+100,176.9,Marshawn Lynch,Oak,RB
+101,175.4,Mark Ingram II,NO ,RB
+102,173.8,Will Fuller V,Hou,WR
+103,172.4,Dion Lewis,Ten,RB
+104,172.3,Mohamed Sanu,Atl,WR
+105,170.8,Lamar Miller,Hou,RB
+106,170,Josh Doctson,Wsh,WR
+107,169.7,Jay Ajayi,Phi,RB
+108,169.3,DeVante Parker,Mia,WR
+109,168,Marqise Lee,Jax,WR
+110,167.7,Jimmy Graham,GB ,TE
+111,167.2,Nelson Agholor,Phi,WR
+112,166.8,Jack Doyle,Ind,TE
+113,166.8,Duke Johnson Jr.,Cle,RB
+114,164.3,Kyle Rudolph,Min,TE
+115,163.6,Tevin Coleman,Atl,RB
+116,161,Tarik Cohen,Chi,RB
+117,160.3,Allen Hurns,Dal,WR
+118,160.1,Isaiah Crowell,NYJ,RB
+119,158.9,Kenny Golladay,Det,WR
+120,158.6,Julian Edelman,NE ,WR
+121,157.4,Chris Thompson,Wsh,RB
+122,154.1,Marlon Mack,Ind,RB
+123,152.5,Rex Burkhead,NE ,RB
+124,150.7,Kerryon Johnson,Det,RB
+125,147.8,Chris Boswell,Pit,K
+126,147.7,Greg Zuerlein,LAR,K
+127,147.1,Paul Richardson,Wsh,WR
+128,146.8,John Ross,Cin,WR
+129,146.5,Tyler Lockett,Sea,WR
+130,145.8,Stephen Gostkowski,NE ,K
+131,145.4,Rishard Matthews*,Ten,WR
+132,145.4,Carlos Hyde,Cle,RB
+133,144.8,Danny Amendola,Mia,WR
+134,143.5,Cameron Meredith,NO ,WR
+135,143.1,Sony Michel,NE ,RB
+136,141.3,Josh Allen,Buf,QB
+137,140.3,Matt Bryant,Atl,K
+138,139.6,Matt Prater,Det,K
+139,139.2,Ronald Jones,TB ,RB
+140,138.7,Rashaad Penny,Sea,RB
+141,138.2,Justin Tucker,Bal,K
+142,138.1,Devontae Booker,Den,RB
+143,137.7,DeSean Jackson,TB ,WR
+144,137.5,Chris Carson,Sea,RB
+145,137.2,Anthony Miller,Chi,WR
+146,136.3,Chris Godwin,TB ,WR
+147,135.9,Charles Clay,Buf,TE
+148,135.7,Robbie Gould,SF ,K
+149,134.8,Harrison Butker,KC ,K
+150,134.4,Theo Riddick,Det,RB
+151,134.2,Ty Montgomery,GB ,RB
+152,134,James White,NE ,RB
+153,133.6,Jake Elliott,Phi,K
+154,132,Jamaal Williams,GB ,RB
+155,132,Calvin Ridley,Atl,WR
+156,131.7,Graham Gano,Car,K
+157,131,Trey Burton,Chi,TE
+158,131,Wil Lutz,NO ,K
+159,129.2,Josh Rosen,Ari,QB
+160,128.6,Ryan Grant,Ind,WR
+161,127.8,David Njoku,Cle,TE
+162,127.6,Daniel Carlson,Min,K
+163,127.5,Ted Ginn Jr.,NO ,WR
+164,127,Adam Vinatieri,Ind,K
+165,126,Ryan Succop,Ten,K
+166,124.4,Giovani Bernard,Cin,RB
+167,123.9,George Kittle,SF ,TE
+168,123.5,DJ Moore,Car,WR
+169,123.2,Jared Cook,Oak,TE
+170,123.2,Mason Crosby,GB ,K
+171,122.9,Vance McDonald,Pit,TE
+172,122.8,Cole Beasley,Dal,WR
+173,122.7,Josh Lambo,Jax,K
+174,122.6,Dustin Hopkins,Wsh,K
+175,122.6,Chandler Catanzaro,TB ,K
+176,122.5,Peyton Barber,TB ,RB
+177,122.2,Jaguars ,D/S,D/ST
+178,122.1,Austin Seferian-Jenkins,Jax,TE
+179,121.7,Benjamin Watson,NO ,TE
+180,121.5,Eddy Pineiro,Oak,K
+181,121.1,Eric Ebron,Ind,TE
+182,120.7,Courtland Sutton,Den,WR
+183,120.4,Tyrell Williams,LAC,WR
+184,119.7,Willie Snead,Bal,WR
+185,119.7,Sebastian Janikowski,Sea,K
+186,119.3,Austin Hooper,Atl,TE
+187,118.7,John Brown,Bal,WR
+188,118.6,Keelan Cole,Jax,WR
+189,118.5,Mike Williams,LAC,WR
+190,118.5,Caleb Sturgis,LAC,K
+191,117.9,Dan Bailey,Dal,K
+192,116.9,Tyler Eifert,Cin,TE
+193,116.9,Cody Parkey,Chi,K
+194,116.4,Mike Wallace,Phi,WR
+195,116.4,Stephen Hauschka,Buf,K
+196,116.1,Zane Gonzalez,Cle,K
+197,115.8,Quincy Enunwa,NYJ,WR
+198,115.7,Aldrick Rosas,NYG,K
+199,115.3,James Washington,Pit,WR
+200,115.2,Cameron Brate,TB ,TE
+201,115.2,Randy Bullock,Cin,K
+202,115,Ricky Seals-Jones,Ari,TE
+203,114,Brandon McManus,Den,K
+204,113.8,Eagles ,D/S,D/ST
+205,113.7,Taywan Taylor,Ten,WR
+206,113.5,Mike Gesicki,Mia,TE
+207,113.1,Bilal Powell,NYJ,RB
+208,113,Ka'imi Fairbairn,Hou,K
+209,112.2,Phil Dawson,Ari,K
+210,112.1,Albert Wilson,Mia,WR
+211,111.7,Michael Gallup,Dal,WR
+212,111.7,Javorius Allen,Bal,RB
+213,110.7,Terrance Williams,Dal,WR
+214,109.6,Adrian Peterson,Wsh,RB
+215,109.3,Titans ,D/S,D/ST
+216,109,Ravens ,D/S,D/ST
+217,108.7,Jason Sanders,Mia,K
+218,108.4,Rams ,D/S,D/ST
+219,108.1,Cairo Santos,NYJ,K
+220,107.6,Patriots ,D/S,D/ST
+221,107.4,Christian Kirk,Ari,WR
+222,107.1,Vikings ,D/S,D/ST
+223,106.7,Texans ,D/S,D/ST
+224,106.6,Travis Benjamin,LAC,WR
+225,106.4,Sam Bradford,Ari,QB
+226,105.4,Eric Decker,NE ,WR
+227,105,O.J. Howard,TB ,TE
+228,104.9,Latavius Murray,Min,RB
+229,104.9,C.J. Anderson,Car,RB
+230,104.9,Jermaine Kearse,NYJ,WR
+231,103.6,Cardinals ,D/S,D/ST
+232,103.4,Broncos ,D/S,D/ST
+233,103.2,Chargers ,D/S,D/ST
+234,103,Matt Breida,SF ,RB
+235,102.9,Brandon Marshall,Sea,WR
+236,102,Kenneth Dixon,Bal,RB
+237,101.8,Corey Coleman,Buf,WR
+238,101.7,Corey Clement,Phi,RB
+239,101.3,Donte Moncrief,Jax,WR
+240,99.1,Hayden Hurst*,Bal,TE
