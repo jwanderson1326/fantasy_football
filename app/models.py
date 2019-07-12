@@ -1,26 +1,23 @@
 from app import db
 
-class Player(UserMixin, db.Model):
-    __tablename__ = 'players'
+class Player(db.Model):
+    __tablename__ = 'espn_players'
 
-    user_id = db.Column(db.String(20), primary_key=True)
-    first_name = db.Column(db.String(40))
-    last_name = db.Column(db.String(40))
-    email = db.Column(db.String(120), index=True, unique=True)
-    password_hash = db.Column(db.String(128))
-    created_date = db.Column(db.DateTime())
+    rank = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(80))
+    position = db.Column(db.String(10))
+    proj_points = db.Column(db.Float, index=True, unique=True)
 
-    activities = db.relationship('Activity', backref='person', lazy='dynamic')
 
     def __repr__(self):
         return """<User(
-                  first_name='{}',
-                  last_name='{}',
-                  id='{}',
-                  email='{}'
-                  )""".format(self.first_name,
-                              self.last_name,
-                              self.user_id,
-                              self.email
+                  rank='{}',
+                  name='{}',
+                  position='{}',
+                  proj_points='{}'
+                  )""".format(self.rank,
+                              self.name,
+                              self.position,
+                              self.proj_points
                               )
 
