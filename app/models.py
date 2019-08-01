@@ -1,12 +1,12 @@
 from app import db
 
 class Player(db.Model):
-    __tablename__ = 'espn_players'
+    __tablename__ = 'espn_players_nonppr'
 
     rank = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(80))
     position = db.Column(db.String(10))
-    proj_points = db.Column(db.Float, index=True, unique=True)
+    proj_points = db.Column(db.Float)
 
 
     def __repr__(self):
