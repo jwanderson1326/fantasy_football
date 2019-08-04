@@ -45,6 +45,11 @@ run-db: ## Run a database
 		-v $(HOME)/docker/volumes/postgres:/var/lib/postgresql/data \
 		postgres:latest
 
+.PHONY: migrate
+migrate:
+	@poetry run flask db migrate
+	@poetry run flask db upgrade
+
 .PHONY: tag
 tag: check-tag check-gitbranch ## Tags image for ECR. Requires GITBRANCH
 	docker tag $(IMAGE_NAME):base $(ECR_IMAGE):$(TAG)

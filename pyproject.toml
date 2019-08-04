@@ -11,6 +11,7 @@ flask_migrate = "^2.5"
 flask = "^1.0"
 flask_sqlalchemy = "^2.4"
 psycopg2 = "^2.8"
+pytest = "^5.0"
 
 
 [tool.poetry.dev-dependencies]
