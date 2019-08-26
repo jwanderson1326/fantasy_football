@@ -1,7 +1,7 @@
 import os
 
 #DB Configs
-HOST = 'localhost'
+HOST = 'db'
 USER = 'root'
 DB = 'football'
 PASSWD = 'pass'
