@@ -23,7 +23,7 @@ FROM base as release
 
 COPY --chown=justin:justin app/ app/
 COPY --chown=justin:justin main.py main.py
-COPY --chown=justin:justin manipulations.py manipulation.py
+COPY --chown=justin:justin manipulations.py manipulations.py
 COPY --chown=justin:justin config.py config.py
 
 ENTRYPOINT ["poetry", "run", "python3", "main.py"]
