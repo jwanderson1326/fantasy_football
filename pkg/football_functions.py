@@ -1,15 +1,21 @@
 from math import ceil
 
-from .config import NUMBER_TEAMS, POSITIONS, ROUNDS, PICK
-from .utils.db_functions import connect_to_db
+from config import NUMBER_TEAMS, POSITIONS, ROUNDS, PICK
+#from .utils.db_functions import connect_to_db
 
 
 def get_orig_pick(pick):
     round_num = ceil(pick/NUMBER_TEAMS)
     if round_num % 2 == 0:
-        orig_pick = (NUMBER_TEAMS - ((pick % NUMBER_TEAMS) - 1))
+        if pick % NUMBER_TEAMS == 0:
+            orig_pick = 1
+        else:
+            orig_pick = (NUMBER_TEAMS - ((pick % NUMBER_TEAMS) - 1))
     else:
-        orig_pick = pick % NUMBER_TEAMS
+        if pick % NUMER_TEAMS == 0:
+            orig_pick = 12
+        else:
+            orig_pick = pick % NUMBER_TEAMS
     return orig_pick
 
 

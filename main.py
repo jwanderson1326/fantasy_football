@@ -1,14 +1,5 @@
-from pkg.football_functions import *
+from app import app
+from app.models import Player
 
-
-def main():
-    pick = get_current_pick()
-    print(pick)
-    print("'''''''''''''''''''''''''''''''''")
-    get_recommendation()
-
-
-if __name__ == '__main__':
-    main()
-
-
+if __name__ == "__main__":
+    app.run(port=5000)
