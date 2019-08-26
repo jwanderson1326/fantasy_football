@@ -28,5 +28,14 @@ POSITIONS = ['QB',
              'D/ST'
              ]
 
+POSITION_LOOKUP = {
+    'qb': 'QB',
+    'rb': 'RB',
+    'wr': 'WR',
+    'te': 'TE',
+    'k' : 'K',
+    'dst': 'D/ST'
+}
+
 
 
