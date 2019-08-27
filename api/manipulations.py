@@ -89,21 +89,17 @@ def get_alternative_player(position):
 
 
 def get_recommendation():
-    situation = {
-        'RB': None,
-        'WR': None,
-        'TE': None,
-        'QB': None,
-        'K': None,
-        'D/ST': None
-    }
+    situation = []
     for position in POSITIONS:
         best = get_best_player(position)
         alt = get_alternative_player(position)
         diff = best.proj_points - alt.proj_points
-        situation[position] = {
+        position_blob = {
+            'position' : position,
             'best_name' : best.name,
             'alt_name' : alt.name,
             'diff' : diff
         }
-    return situation
+        situation.append(position_blob)
+    situation_sorted = sorted(situation, key = lambda i: i['diff'], reverse=True)
+    return situation_sorted

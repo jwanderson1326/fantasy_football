@@ -11,8 +11,8 @@ def get_pos_recommendation(position):
 @app.route('/', methods = ['GET'])
 @app.route('/index', methods = ['GET'])
 def index():
-    rec = str(get_recommendation())
-    return render_template('index.html', rec=rec)
+    recs = get_recommendation()
+    return render_template('index.html', recs=recs)
 
 
 @app.route('/rec', methods = ['GET'])

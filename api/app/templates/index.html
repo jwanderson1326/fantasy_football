@@ -4,6 +4,13 @@
     </head>
     <body>
         <h1>Justin FF App</h1>
-        <p>{{ rec }}</p>
+        {% for rec in recs %}
+        <div>
+          <h5>Position: {{ rec.position }}</h5>
+          <p>Best: {{ rec.best_name }}</p>
+          <p>Alt: {{ rec.alt_name }}</p>
+          <p>Diff: {{ rec.diff }}</p>
+        </div>
+        {% endfor %}
     </body>
 </html>
