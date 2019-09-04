@@ -1,7 +1,7 @@
 from app import db
 
 class Player(db.Model):
-    __tablename__ = 'espn_players_nonppr'
+    __tablename__ = 'espn_players_half_ppr'
 
     rank = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(80))
